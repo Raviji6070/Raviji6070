@@ -5,6 +5,5 @@
 - 📫 How to reach me  
 
 <!---
-Raviji6070/Raviji6070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I am currently studying computer science and engineering at Chandigarh University. I have worked on projects like Water scarcity management and weather forecasting application. I have worked as a data entry expert with experience of 3 months. I have expertise in Microsoft excel , word and Power point. let's bring your project to life together! Prices are negotiable and totaly depends on type of work.
 --->
